@@ -5,6 +5,7 @@ from pandas import read_csv
 lista_de_harmonicos_reduzido = pd.read_csv("./arquivos_csv/espectro_harmonico_reduzido.csv", header=None)[0]
 
 lista_de_nos = pd.read_csv("./arquivos_csv/lista_de_nos.csv", index_col=0).drop([0,1,2])["0"]
+print(lista_de_nos)
 
 def find(pattern, path):
     result = []
@@ -36,5 +37,8 @@ for harmonico in lista_de_harmonicos_reduzido:
                 # print("Sem match!")
                 continue
 
+    harmonico_df.index = lista_de_nos
     harmonico_df.to_csv("Z_harmonico_{}.csv".format(harmonico))
 
+teste = pd.read_csv("./Z_harmonico_1.csv", index_col=0)
+print(teste)
