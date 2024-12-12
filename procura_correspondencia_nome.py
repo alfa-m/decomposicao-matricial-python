@@ -38,23 +38,3 @@ for harmonico in lista_de_harmonicos_reduzido:
 
     harmonico_df.to_csv("Z_harmonico_{}.csv".format(harmonico))
 
-
-
-"""
-#for harmonico in lista_de_harmonicos
-for i in range(len(lista_de_nos)):
-    node = lista_de_nos.iloc[i]
-
-    for arquivo in arquivos_vmag:
-        nome_arquivo_dividido = arquivo.rsplit("_")
-        final_nome_arquivo = nome_arquivo_dividido[-1]
-        final_nome_arquivo_sem_extensao = final_nome_arquivo.rsplit(".csv")[0]
-
-        if final_nome_arquivo_sem_extensao == node:
-            #print("Match!")
-            break
-        else:
-            #print("Sem match!")
-            continue
-
-"""
