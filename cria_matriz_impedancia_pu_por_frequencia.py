@@ -13,7 +13,7 @@ def find(pattern, path):
                 result.append(name)
     return result
 
-arquivos_vmag = find('vmag_node*.csv', './arquivos_csv_base/')
+arquivos_vmag = find('vmagpu_node*.csv', './arquivos_csv_base/')
 
 indice = 0
 for harmonico in lista_de_harmonicos_reduzido:
@@ -37,7 +37,7 @@ for harmonico in lista_de_harmonicos_reduzido:
                 continue
 
     harmonico_df.index = lista_de_nos
-    harmonico_df.to_csv("Z_harmonico_{}.csv".format(harmonico))
+    harmonico_df.to_csv("Z_pu_harmonico_{}.csv".format(harmonico))
     indice = indice + 1
 
-print("Matrizes Z criadas")
+print("Matrizes Z em pu criadas")
