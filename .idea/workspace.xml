@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2706612-c138-4fa8-97f0-7edfd857d892" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/decomposicaomatricial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/decomposicaomatricial.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cria_matriz_impedancia_por_frequencia.py" beforeDir="false" afterPath="$PROJECT_DIR$/cria_matriz_impedancia_por_frequencia.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cria_matriz_impedancia_pu_por_frequencia.py" beforeDir="false" afterPath="$PROJECT_DIR$/cria_matriz_impedancia_pu_por_frequencia.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decomposicao_matriz_diagonal_autovalores.py" beforeDir="false" afterPath="$PROJECT_DIR$/decomposicao_matriz_diagonal_autovalores.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decomposicao_matriz_diagonal_pu_autovalores.py" beforeDir="false" afterPath="$PROJECT_DIR$/decomposicao_matriz_diagonal_pu_autovalores.py" afterDir="false" />
-    </list>
+    <list default="true" id="c2706612-c138-4fa8-97f0-7edfd857d892" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +24,7 @@
     "Python.cria_matriz_impedancia_por_frequencia.executor": "Run",
     "Python.cria_matriz_impedancia_pu_por_frequencia.executor": "Run",
     "Python.decomposicao_matriz_diagonal_autovalores.executor": "Run",
+    "Python.decomposicao_matriz_diagonal_pu_autovalores.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
