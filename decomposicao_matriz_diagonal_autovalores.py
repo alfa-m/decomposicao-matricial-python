@@ -18,3 +18,5 @@ for matriz_z in lista_de_matrizes_z:
     matriz_z_diagonal_df.to_csv(caminho_saida)
     autovetores_matriz_z_df = pd.DataFrame(autovetores_matriz_z)
     autovetores_matriz_z_df.to_csv("autovetores_{}".format(caminho_saida))
+
+print("Matrizes Z decompostas diagonalmente e matrizes de autovetores obtidas")
