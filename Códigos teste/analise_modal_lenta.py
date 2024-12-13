@@ -24,15 +24,22 @@ matriz_freq_1_numpy = matriz_freq_1.to_numpy()
 matriz_freq_2_numpy = matriz_freq_2.to_numpy()
 matriz_freq_3_numpy = matriz_freq_3.to_numpy()
 
-autovalores_matriz_freq_1, autovetores_matriz_freq_1 = np.linalg.eig(matriz_freq_1)
-matriz_freq_1_diagonal = np.diag(autovalores_matriz_freq_1)
+autovalores_matriz_freq_1_numpy, autovetores_matriz_freq_1_numpy = np.linalg.eig(matriz_freq_1_numpy)
+matriz_freq_1_diagonal_numpy = np.diag(autovalores_matriz_freq_1_numpy)
 
-autovalores_matriz_freq_2, autovetores_matriz_freq_2 = np.linalg.eig(matriz_freq_2)
+autovalores_matriz_freq_2, autovetores_matriz_freq_2 = np.linalg.eig(matriz_freq_2_numpy)
 matriz_freq_2_diagonal = np.diag(autovalores_matriz_freq_2)
 
-autovalores_matriz_freq_3, autovetores_matriz_freq_3 = np.linalg.eig(matriz_freq_3)
+autovalores_matriz_freq_3, autovetores_matriz_freq_3 = np.linalg.eig(matriz_freq_3_numpy)
 matriz_freq_3_diagonal = np.diag(autovalores_matriz_freq_3)
 
-print("Matriz Z com harmônico 1:\n", matriz_freq_1_numpy)
+autovalores_matriz_freq_1, autovetores_matriz_freq_1 = np.linalg.eig(matriz_freq_1_numpy)
+matriz_freq_1_diagonal = np.diag(autovalores_matriz_freq_1)
+
+print("Matriz Z com harmônico 1 com numpy:\n", matriz_freq_1_numpy)
+print("Matriz Z diagonal:\n", matriz_freq_1_diagonal_numpy)
+print("Autovetores da matriz Z:\n", autovetores_matriz_freq_1_numpy)
+
+print("Matriz Z com harmônico 1 sem numpy:\n", matriz_freq_1)
 print("Matriz Z diagonal:\n", matriz_freq_1_diagonal)
 print("Autovetores da matriz Z:\n", autovetores_matriz_freq_1)
