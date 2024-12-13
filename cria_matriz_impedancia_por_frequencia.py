@@ -1,19 +1,9 @@
-import os, fnmatch
 import pandas as pd
-from pandas import read_csv
+from procura_arquivos import procura
 
 lista_de_harmonicos_reduzido = pd.read_csv("./arquivos_csv_base/espectro_harmonico_reduzido.csv", header=None)[0]
 lista_de_nos = pd.read_csv("./arquivos_csv_base/lista_de_nos.csv", index_col=0).drop([0,1,2])["0"]
-
-def find(pattern, path):
-    result = []
-    for root, dirs, files in os.walk(path):
-        for name in files:
-            if fnmatch.fnmatch(name, pattern):
-                result.append(name)
-    return result
-
-arquivos_vmag = find('vmag_node*.csv', './arquivos_csv_base/')
+arquivos_vmag = procura('vmag_node*.csv', './arquivos_csv_base/')
 
 indice = 0
 for harmonico in lista_de_harmonicos_reduzido:
