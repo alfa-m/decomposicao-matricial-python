@@ -4,11 +4,107 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2706612-c138-4fa8-97f0-7edfd857d892" name="Changes" comment="" />
+    <list default="true" id="c2706612-c138-4fa8-97f0-7edfd857d892" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/cria_matriz_impedancia_imaginario_por_frequencia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cria_matriz_impedancia_real_por_frequencia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decomposicao_matriz_diagonal_imaginario_autovalores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decomposicao_matriz_diagonal_real_autovalores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/separa_v_em_real_imaginario.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z_harmonico_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z_harmonico_11.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z_harmonico_13.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z_harmonico_15.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z_harmonico_17.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z_harmonico_19.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z_harmonico_21.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z_harmonico_23.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z_harmonico_25.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z_harmonico_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z_harmonico_5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z_harmonico_7.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z_harmonico_9.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z_pu_harmonico_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z_pu_harmonico_11.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z_pu_harmonico_13.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z_pu_harmonico_15.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z_pu_harmonico_17.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z_pu_harmonico_19.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z_pu_harmonico_21.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z_pu_harmonico_23.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z_pu_harmonico_25.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z_pu_harmonico_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z_pu_harmonico_5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z_pu_harmonico_7.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z_pu_harmonico_9.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autovetores_Z_harmonico_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autovetores_Z_harmonico_11.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autovetores_Z_harmonico_13.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autovetores_Z_harmonico_15.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autovetores_Z_harmonico_17.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autovetores_Z_harmonico_19.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autovetores_Z_harmonico_21.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autovetores_Z_harmonico_23.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autovetores_Z_harmonico_25.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autovetores_Z_harmonico_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autovetores_Z_harmonico_5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autovetores_Z_harmonico_7.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autovetores_Z_harmonico_9.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autovetores_Z_pu_harmonico_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autovetores_Z_pu_harmonico_11.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autovetores_Z_pu_harmonico_13.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autovetores_Z_pu_harmonico_15.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autovetores_Z_pu_harmonico_17.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autovetores_Z_pu_harmonico_19.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autovetores_Z_pu_harmonico_21.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autovetores_Z_pu_harmonico_23.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autovetores_Z_pu_harmonico_25.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autovetores_Z_pu_harmonico_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autovetores_Z_pu_harmonico_5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autovetores_Z_pu_harmonico_7.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autovetores_Z_pu_harmonico_9.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cria_matriz_impedancia_por_frequencia.py" beforeDir="false" afterPath="$PROJECT_DIR$/cria_matriz_impedancia_mag_por_frequencia.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cria_matriz_impedancia_pu_por_frequencia.py" beforeDir="false" afterPath="$PROJECT_DIR$/cria_matriz_impedancia_mag_pu_por_frequencia.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decomposicao_matriz_diagonal_autovalores.py" beforeDir="false" afterPath="$PROJECT_DIR$/decomposicao_matriz_diagonal_mag_autovalores.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decomposicao_matriz_diagonal_pu_autovalores.py" beforeDir="false" afterPath="$PROJECT_DIR$/decomposicao_matriz_diagonal_mag_pu_autovalores.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matriz_diagonal_Z_harmonico_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matriz_diagonal_Z_harmonico_11.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matriz_diagonal_Z_harmonico_13.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matriz_diagonal_Z_harmonico_15.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matriz_diagonal_Z_harmonico_17.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matriz_diagonal_Z_harmonico_19.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matriz_diagonal_Z_harmonico_21.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matriz_diagonal_Z_harmonico_23.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matriz_diagonal_Z_harmonico_25.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matriz_diagonal_Z_harmonico_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matriz_diagonal_Z_harmonico_5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matriz_diagonal_Z_harmonico_7.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matriz_diagonal_Z_harmonico_9.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matriz_diagonal_Z_pu_harmonico_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matriz_diagonal_Z_pu_harmonico_11.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matriz_diagonal_Z_pu_harmonico_13.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matriz_diagonal_Z_pu_harmonico_15.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matriz_diagonal_Z_pu_harmonico_17.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matriz_diagonal_Z_pu_harmonico_19.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matriz_diagonal_Z_pu_harmonico_21.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matriz_diagonal_Z_pu_harmonico_23.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matriz_diagonal_Z_pu_harmonico_25.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matriz_diagonal_Z_pu_harmonico_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matriz_diagonal_Z_pu_harmonico_5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matriz_diagonal_Z_pu_harmonico_7.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matriz_diagonal_Z_pu_harmonico_9.csv" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,16 +118,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.cria_matriz_impedancia_por_frequencia.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cria_matriz_impedancia_pu_por_frequencia.executor&quot;: &quot;Run&quot;,
-    &quot;Python.decomposicao_matriz_diagonal_autovalores.executor&quot;: &quot;Run&quot;,
-    &quot;Python.decomposicao_matriz_diagonal_pu_autovalores.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.cria_matriz_impedancia_imaginario_por_frequencia.executor": "Run",
+    "Python.cria_matriz_impedancia_mag_por_frequencia.executor": "Run",
+    "Python.cria_matriz_impedancia_mag_pu_por_frequencia.executor": "Run",
+    "Python.cria_matriz_impedancia_por_frequencia.executor": "Run",
+    "Python.cria_matriz_impedancia_pu_por_frequencia.executor": "Run",
+    "Python.cria_matriz_impedancia_real_por_frequencia.executor": "Run",
+    "Python.decomposicao_matriz_diagonal_autovalores.executor": "Run",
+    "Python.decomposicao_matriz_diagonal_imaginario_autovalores.executor": "Run",
+    "Python.decomposicao_matriz_diagonal_mag_autovalores.executor": "Run",
+    "Python.decomposicao_matriz_diagonal_mag_pu_autovalores.executor": "Run",
+    "Python.decomposicao_matriz_diagonal_pu_autovalores.executor": "Run",
+    "Python.decomposicao_matriz_diagonal_real_autovalores.executor": "Run",
+    "Python.separa_v_em_real_imaginario.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Polar Files/Documents/TCC/Python/decomposicaomatricial"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Polar Files\Documents\TCC\Python\decomposicaomatricial" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
