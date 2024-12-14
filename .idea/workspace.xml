@@ -4,63 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2706612-c138-4fa8-97f0-7edfd857d892" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z_diagonal_harmonico_1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z_diagonal_harmonico_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z_diagonal_harmonico_13.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z_diagonal_harmonico_15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z_diagonal_harmonico_17.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z_diagonal_harmonico_19.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z_diagonal_harmonico_21.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z_diagonal_harmonico_23.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z_diagonal_harmonico_25.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z_diagonal_harmonico_3.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z_diagonal_harmonico_5.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z_diagonal_harmonico_7.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z_diagonal_harmonico_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z_pu_diagonal_harmonico_1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z_pu_diagonal_harmonico_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z_pu_diagonal_harmonico_13.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z_pu_diagonal_harmonico_15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z_pu_diagonal_harmonico_17.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z_pu_diagonal_harmonico_19.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z_pu_diagonal_harmonico_21.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z_pu_diagonal_harmonico_23.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z_pu_diagonal_harmonico_25.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z_pu_diagonal_harmonico_3.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z_pu_diagonal_harmonico_5.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z_pu_diagonal_harmonico_7.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z_pu_diagonal_harmonico_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autovetores_Z_diagonal_harmonico_1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autovetores_Z_diagonal_harmonico_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autovetores_Z_diagonal_harmonico_13.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autovetores_Z_diagonal_harmonico_15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autovetores_Z_diagonal_harmonico_17.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autovetores_Z_diagonal_harmonico_19.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autovetores_Z_diagonal_harmonico_21.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autovetores_Z_diagonal_harmonico_23.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autovetores_Z_diagonal_harmonico_25.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autovetores_Z_diagonal_harmonico_3.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autovetores_Z_diagonal_harmonico_5.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autovetores_Z_diagonal_harmonico_7.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autovetores_Z_diagonal_harmonico_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autovetores_Z_pu_diagonal_harmonico_1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autovetores_Z_pu_diagonal_harmonico_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autovetores_Z_pu_diagonal_harmonico_13.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autovetores_Z_pu_diagonal_harmonico_15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autovetores_Z_pu_diagonal_harmonico_17.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autovetores_Z_pu_diagonal_harmonico_19.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autovetores_Z_pu_diagonal_harmonico_21.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autovetores_Z_pu_diagonal_harmonico_23.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autovetores_Z_pu_diagonal_harmonico_25.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autovetores_Z_pu_diagonal_harmonico_3.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autovetores_Z_pu_diagonal_harmonico_5.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autovetores_Z_pu_diagonal_harmonico_7.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autovetores_Z_pu_diagonal_harmonico_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/decomposicao_matriz_diagonal_autovalores.py" beforeDir="false" afterPath="$PROJECT_DIR$/decomposicao_matriz_diagonal_autovalores.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decomposicao_matriz_diagonal_pu_autovalores.py" beforeDir="false" afterPath="$PROJECT_DIR$/decomposicao_matriz_diagonal_pu_autovalores.py" afterDir="false" />
-    </list>
+    <list default="true" id="c2706612-c138-4fa8-97f0-7edfd857d892" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
