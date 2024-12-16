@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c2706612-c138-4fa8-97f0-7edfd857d892" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,27 +32,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.calcula_fator_participacao.executor": "Debug",
-    "Python.cria_matriz_impedancia_imaginario_por_frequencia.executor": "Run",
-    "Python.cria_matriz_impedancia_mag_por_frequencia.executor": "Run",
-    "Python.cria_matriz_impedancia_mag_pu_por_frequencia.executor": "Run",
-    "Python.cria_matriz_impedancia_por_frequencia.executor": "Run",
-    "Python.cria_matriz_impedancia_pu_por_frequencia.executor": "Run",
-    "Python.cria_matriz_impedancia_real_por_frequencia.executor": "Run",
-    "Python.decomposicao_matriz_diagonal_autovalores.executor": "Run",
-    "Python.decomposicao_matriz_diagonal_imaginario_autovalores.executor": "Run",
-    "Python.decomposicao_matriz_diagonal_mag_autovalores.executor": "Run",
-    "Python.decomposicao_matriz_diagonal_mag_pu_autovalores.executor": "Run",
-    "Python.decomposicao_matriz_diagonal_pu_autovalores.executor": "Run",
-    "Python.decomposicao_matriz_diagonal_real_autovalores.executor": "Run",
-    "Python.separa_v_em_real_imaginario.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Polar Files/Documents/TCC/Python/decomposicaomatricial"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.calcula_fator_participacao.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.cria_matriz_impedancia_imaginario_por_frequencia.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cria_matriz_impedancia_mag_por_frequencia.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cria_matriz_impedancia_mag_pu_por_frequencia.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cria_matriz_impedancia_por_frequencia.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cria_matriz_impedancia_pu_por_frequencia.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cria_matriz_impedancia_real_por_frequencia.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decomposicao_matriz_diagonal_autovalores.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decomposicao_matriz_diagonal_imaginario_autovalores.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decomposicao_matriz_diagonal_mag_autovalores.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decomposicao_matriz_diagonal_mag_pu_autovalores.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decomposicao_matriz_diagonal_pu_autovalores.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decomposicao_matriz_diagonal_real_autovalores.executor&quot;: &quot;Run&quot;,
+    &quot;Python.separa_v_em_real_imaginario.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Polar Files/Documents/TCC/Python/decomposicaomatricial&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Polar Files\Documents\TCC\Python\decomposicaomatricial" />
